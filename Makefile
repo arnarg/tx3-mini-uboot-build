@@ -1,6 +1,6 @@
-UBOOT_DEFCONFIG ?= p281_defconfig
+UBOOT_DEFCONFIG ?= tx3-mini_defconfig
 UBOOT_DIR ?= u-boot
-UBOOT_TAG ?= v2019.01-tx3-mini
+UBOOT_TAG ?= v2019.10-tx3-mini
 
 RAM_SIZE ?= 2g
 
